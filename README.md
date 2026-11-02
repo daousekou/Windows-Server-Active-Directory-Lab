@@ -1,5 +1,7 @@
 # Windows Server & Active Directory — Laboratoire OT/IT
 
+📄 **[Consulter la documentation technique complète (PDF)](Documentation_Windows_Server_AD.pdf)**
+
 **Conception, déploiement et administration d'une infrastructure Windows Server virtualisée pour un environnement d'automatisme industriel.**
 
 Ce projet consiste à mettre en place un laboratoire personnel **OT/IT (Operational Technology / Information Technology)** utilisant VMware Workstation, Windows Server 2022, Active Directory, DNS, SMB et les stratégies de groupe (GPO).
